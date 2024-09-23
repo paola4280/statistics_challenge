@@ -1,7 +1,7 @@
 # statistics_challenge
 Statistics challenge with Matplotlib applications.
 
-The code for this challenge is found inside the Pymaceuticals folder and the file name is "Pymaceuticals_starter". 
+The updated code for this challenge is found on the main page of the repository and the file name is "Pymaceuticals_starter". While I can fix my git, I manually uploaded my files for your access. The file inside the Pymaceuticals is not up to date. 
 
 The purpose of this activity is to combine the use of Pandas and Matplotlib with Statistics applications. Some covered activities include opening CSV files, merging files, cleaning data frames, filtering, and finding the mean, median, mode, standard deviation, standard error, IQR, correlation coefficient, and regression line. Additionally, the challenge included bar graphs, pie charts, scatter plots, line plots, and regression lines.
 
